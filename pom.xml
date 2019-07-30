@@ -12,7 +12,7 @@
     <artifactId>logindemo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>logindemo</name>
-    <description>登录验证Demo</description>
+    <description>spring-security登录验证Demo</description>
 
     <properties>
         <java.version>1.8</java.version>
